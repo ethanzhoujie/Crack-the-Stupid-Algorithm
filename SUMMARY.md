@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [开篇必读](README.md)
 
 ## 举一反三 各个击破
 
