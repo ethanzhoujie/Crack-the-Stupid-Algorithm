@@ -1,1 +1,2 @@
-# Crack-the-Stupid-Algorithm
+# Initial page
+
